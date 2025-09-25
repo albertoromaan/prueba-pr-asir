@@ -15,7 +15,12 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
 
+ 
 * [jjc](files/jjc.md)
+
+* [ifb](files/ifb.md)
+
+* [ak](files/ak.md)
 
 * [dbb](files/dbb.md)
 
