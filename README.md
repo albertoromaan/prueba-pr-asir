@@ -52,4 +52,10 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [srg](files/srg.md)
 
+<<<<<<< HEAD
 * [arg](files(arg.md)
+=======
+* [pop](files/pop.md) 
+
+* [jfj](files/jfj.md)
+>>>>>>> upstream/main
